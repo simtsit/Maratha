@@ -1,0 +1,19 @@
+{
+  "name": "maratha-admin-template",
+  "version": "1.0.0",
+  "description": "A data visualisation template based on Nodejs and Data Driven Documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simtsit/Maratha-Admin-Template.git"
+  },
+  "author": "Symeon Tsitoglou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simtsit/Maratha-Admin-Template/issues"
+  },
+  "homepage": "https://github.com/simtsit/Maratha-Admin-Template#readme"
+}
